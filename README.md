@@ -1,5 +1,9 @@
 # LLM---Detect-AI-Generated-Text
 
+Source Code: https://www.kaggle.com/code/ruthwikgangavelli/llm-detect-ai-generated-text/notebook
+
+Blog Post: https://gruthwik.wixsite.com/homepage/post/llm-detect-ai-generated-text
+
 In recent years, large language models (LLMs) have become increasingly sophisticated, capable of generating text that is difficult to distinguish from human-written text. we are tasked with finding whether the text is AI written or not. if so we have to find the percentage.
 
 
